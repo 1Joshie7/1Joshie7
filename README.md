@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @1Joshie7
 - 👀 I’m interested in python and java
-- 🌱 I’m currently learning puthon
 - ⚡ Fun fact: coding is difficult 
 
 <!---
